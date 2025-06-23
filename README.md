@@ -174,11 +174,20 @@ Parsed and visualized log events to identify brute force attacks, abnormal login
 -->
 
 <div align="center">
+<h2 style="
+  font-size: 2.5rem; 
+  font-weight: 700; 
+  color: #ff6f61; 
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+">
+ 💫 "Learning more, doing more, growing every day"
 
-### 💫 *"Security through knowledge, growth through practice"*
+</h2>
 
-📌 **This profile is a living document** - regularly updated with new projects, skills, and insights from my cybersecurity journey.
+📌 This profile’s always changing — I’m adding new projects, skills, and things I’m figuring out on my journey.
 
-**⭐ Follow along for updates!**
+⭐ Come back anytime to see what’s new!*
 
 </div>
